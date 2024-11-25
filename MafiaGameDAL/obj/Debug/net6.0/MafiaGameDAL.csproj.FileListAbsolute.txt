@@ -1,0 +1,5 @@
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net6.0\MafiaGameDAL.csproj.AssemblyReference.cache
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net6.0\MafiaGameDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net6.0\MafiaGameDAL.AssemblyInfoInputs.cache
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net6.0\MafiaGameDAL.AssemblyInfo.cs
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net6.0\MafiaGameDAL.csproj.CoreCompileInputs.cache

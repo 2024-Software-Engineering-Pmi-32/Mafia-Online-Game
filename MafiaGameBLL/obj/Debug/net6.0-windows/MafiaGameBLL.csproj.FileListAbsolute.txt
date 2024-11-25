@@ -1,0 +1,5 @@
+D:\university\PE\MafiaGameSolution\MafiaGameBLL\obj\Debug\net6.0-windows\MafiaGameBLL.csproj.AssemblyReference.cache
+D:\university\PE\MafiaGameSolution\MafiaGameBLL\obj\Debug\net6.0-windows\MafiaGameBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\PE\MafiaGameSolution\MafiaGameBLL\obj\Debug\net6.0-windows\MafiaGameBLL.AssemblyInfoInputs.cache
+D:\university\PE\MafiaGameSolution\MafiaGameBLL\obj\Debug\net6.0-windows\MafiaGameBLL.AssemblyInfo.cs
+D:\university\PE\MafiaGameSolution\MafiaGameBLL\obj\Debug\net6.0-windows\MafiaGameBLL.csproj.CoreCompileInputs.cache

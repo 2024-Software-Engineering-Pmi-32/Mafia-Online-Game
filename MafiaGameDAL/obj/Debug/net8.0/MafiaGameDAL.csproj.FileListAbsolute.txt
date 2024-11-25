@@ -1,0 +1,14 @@
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\bin\Debug\net8.0\MafiaGameDAL.deps.json
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\bin\Debug\net8.0\MafiaGameDAL.dll
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\bin\Debug\net8.0\MafiaGameDAL.pdb
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.csproj.AssemblyReference.cache
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.AssemblyInfoInputs.cache
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.AssemblyInfo.cs
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.csproj.CoreCompileInputs.cache
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.dll
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\refint\MafiaGameDAL.dll
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.pdb
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\ref\MafiaGameDAL.dll
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\bin\Debug\net8.0\MafiaGameDAL.runtimeconfig.json
+D:\university\PE\MafiaGameSolution\MafiaGameDAL\obj\Debug\net8.0\MafiaGameDAL.genruntimeconfig.cache

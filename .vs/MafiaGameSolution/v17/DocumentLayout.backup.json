@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\university\\PE\\MafiaGameSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamepl\\gameplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|solutionrelative:mafiagamepl\\gameplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamepl\\gametableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|solutionrelative:mafiagamepl\\gametableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamepl\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|solutionrelative:mafiagamepl\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamedal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|solutionrelative:mafiagamedal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24431C77-794C-467B-A44A-206CA857909D}|MafiaGameBLL\\MafiaGameBLL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamebll\\mafiagamebll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24431C77-794C-467B-A44A-206CA857909D}|MafiaGameBLL\\MafiaGameBLL.csproj|solutionrelative:mafiagamebll\\mafiagamebll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamedal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|solutionrelative:mafiagamedal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24431C77-794C-467B-A44A-206CA857909D}|MafiaGameBLL\\MafiaGameBLL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamebll\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24431C77-794C-467B-A44A-206CA857909D}|MafiaGameBLL\\MafiaGameBLL.csproj|solutionrelative:mafiagamebll\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamepl\\searchsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|solutionrelative:mafiagamepl\\searchsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamedal\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|solutionrelative:mafiagamedal\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamedal\\models\\sessionplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8E3667-33B9-4712-A875-D613043D8626}|MafiaGameDAL\\MafiaGameDAL.csproj|solutionrelative:mafiagamedal\\models\\sessionplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24431C77-794C-467B-A44A-206CA857909D}|MafiaGameBLL\\MafiaGameBLL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamebll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24431C77-794C-467B-A44A-206CA857909D}|MafiaGameBLL\\MafiaGameBLL.csproj|solutionrelative:mafiagamebll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamepl\\createsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|solutionrelative:mafiagamepl\\createsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamepl\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|solutionrelative:mafiagamepl\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|d:\\university\\pe\\mafiagamesolution\\mafiagamepl\\helpers\\currentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41399F4F-4224-4ECE-B455-838204F56702}|MafiaGamePL\\MafiaGamePL.csproj|solutionrelative:mafiagamepl\\helpers\\currentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePlayForm.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\GamePlayForm.cs",
+              "RelativeDocumentMoniker": "MafiaGamePL\\GamePlayForm.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\GamePlayForm.cs",
+              "RelativeToolTip": "MafiaGamePL\\GamePlayForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:34:31.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameTableForm.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\GameTableForm.cs",
+              "RelativeDocumentMoniker": "MafiaGamePL\\GameTableForm.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\GameTableForm.cs",
+              "RelativeToolTip": "MafiaGamePL\\GameTableForm.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwKwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:52:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "MafiaGamePL\\MainMenuForm.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\MainMenuForm.cs",
+              "RelativeToolTip": "MafiaGamePL\\MainMenuForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:21:46.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MafiaGameBLL.csproj",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameBLL\\MafiaGameBLL.csproj",
+              "RelativeDocumentMoniker": "MafiaGameBLL\\MafiaGameBLL.csproj",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameBLL\\MafiaGameBLL.csproj",
+              "RelativeToolTip": "MafiaGameBLL\\MafiaGameBLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T09:16:12.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MafiaGameDAL\\Models\\User.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\Models\\User.cs",
+              "RelativeToolTip": "MafiaGameDAL\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:56:56.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MafiaGameDAL\\AppDbContext.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\AppDbContext.cs",
+              "RelativeToolTip": "MafiaGameDAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:06:52.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameBLL\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "MafiaGameBLL\\Services\\SessionService.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameBLL\\Services\\SessionService.cs",
+              "RelativeToolTip": "MafiaGameBLL\\Services\\SessionService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAA+wJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:16:34.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchSessionForm.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\SearchSessionForm.cs",
+              "RelativeDocumentMoniker": "MafiaGamePL\\SearchSessionForm.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\SearchSessionForm.cs",
+              "RelativeToolTip": "MafiaGamePL\\SearchSessionForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:19:39.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "MafiaGameDAL\\Models\\Session.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\Models\\Session.cs",
+              "RelativeToolTip": "MafiaGameDAL\\Models\\Session.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:16:31.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionPlayer.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\Models\\SessionPlayer.cs",
+              "RelativeDocumentMoniker": "MafiaGameDAL\\Models\\SessionPlayer.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameDAL\\Models\\SessionPlayer.cs",
+              "RelativeToolTip": "MafiaGameDAL\\Models\\SessionPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:05:56.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameBLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MafiaGameBLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGameBLL\\Services\\UserService.cs",
+              "RelativeToolTip": "MafiaGameBLL\\Services\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:28:38.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrentUserContext.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\Helpers\\CurrentUserContext.cs",
+              "RelativeDocumentMoniker": "MafiaGamePL\\Helpers\\CurrentUserContext.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\Helpers\\CurrentUserContext.cs",
+              "RelativeToolTip": "MafiaGamePL\\Helpers\\CurrentUserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:25:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MafiaGamePL\\LoginForm.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\LoginForm.cs",
+              "RelativeToolTip": "MafiaGamePL\\LoginForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:26:55.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateSessionForm.cs",
+              "DocumentMoniker": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\CreateSessionForm.cs",
+              "RelativeDocumentMoniker": "MafiaGamePL\\CreateSessionForm.cs",
+              "ToolTip": "D:\\university\\PE\\MafiaGameSolution\\MafiaGamePL\\CreateSessionForm.cs",
+              "RelativeToolTip": "MafiaGamePL\\CreateSessionForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:15:44.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
